@@ -1,29 +1,29 @@
-# ä¯ÀÀÆ÷,
-Chromeä¯ÀÀÆ÷,winget install --id Google.Chrome -e --silent --accept-package-agreements --accept-source-agreements
-Edgeä¯ÀÀÆ÷,winget install --id Microsoft.Edge -e --silent --accept-package-agreements --accept-source-agreements
-Firefoxä¯ÀÀÆ÷,winget install --id Mozilla.Firefox -e --silent --accept-package-agreements --accept-source-agreements
-¿ä¿Ëä¯ÀÀÆ÷,winget install --id Alibaba.Quark -e --silent --accept-package-agreements --accept-source-agreements
-# Í¨Ñ¶°ì¹«,
-Î¢ĞÅ,winget install --id Tencent.WeChat -e --silent --accept-package-agreements --accept-source-agreements
-ÆóÒµÎ¢ĞÅ,winget install --id Tencent.WeCom -e --silent --accept-package-agreements --accept-source-agreements
+ï»¿# æµè§ˆå™¨,
+Chromeæµè§ˆå™¨,winget install --id Google.Chrome -e --silent --accept-package-agreements --accept-source-agreements
+Edgeæµè§ˆå™¨,winget install --id Microsoft.Edge -e --silent --accept-package-agreements --accept-source-agreements
+Firefoxæµè§ˆå™¨,winget install --id Mozilla.Firefox -e --silent --accept-package-agreements --accept-source-agreements
+å¤¸å…‹æµè§ˆå™¨,winget install --id Alibaba.Quark -e --silent --accept-package-agreements --accept-source-agreements
+# é€šè®¯åŠå…¬,
+å¾®ä¿¡,winget install --id Tencent.WeChat -e --silent --accept-package-agreements --accept-source-agreements
+ä¼ä¸šå¾®ä¿¡,winget install --id Tencent.WeCom -e --silent --accept-package-agreements --accept-source-agreements
 QQ,winget install --id Tencent.QQ -e --silent --accept-package-agreements --accept-source-agreements
 TIM,winget install --id Tencent.TIM -e --silent --accept-package-agreements --accept-source-agreements
-¶¤¶¤,winget install --id Alibaba.DingTalk.Mainland -e --silent --accept-package-agreements --accept-source-agreements
-·ÉÊé,winget install --id ByteDance.Feishu -e --silent --accept-package-agreements --accept-source-agreements
-ÌÚÑ¶»áÒé,winget install --id Tencent.TencentMeeting -e --silent --accept-package-agreements --accept-source-agreements
+é’‰é’‰,winget install --id Alibaba.DingTalk.Mainland -e --silent --accept-package-agreements --accept-source-agreements
+é£ä¹¦,winget install --id ByteDance.Feishu -e --silent --accept-package-agreements --accept-source-agreements
+è…¾è®¯ä¼šè®®,winget install --id Tencent.TencentMeeting -e --silent --accept-package-agreements --accept-source-agreements
 Zoom,winget install --id Zoom.Zoom -e --silent --accept-package-agreements --accept-source-agreements
-Î¢ĞÅÊäÈë·¨,winget install --id Tencent.WeType -e --silent --accept-package-agreements --accept-source-agreements
-ËÑ¹·ÊäÈë·¨,winget install --id Sogou.SogouInput -e --silent --accept-package-agreements --accept-source-agreements
+å¾®ä¿¡è¾“å…¥æ³•,winget install --id Tencent.WeType -e --silent --accept-package-agreements --accept-source-agreements
+æœç‹—è¾“å…¥æ³•,winget install --id Sogou.SogouInput -e --silent --accept-package-agreements --accept-source-agreements
 WPS Office,winget install --id Kingsoft.WPSOffice -e --silent --accept-package-agreements --accept-source-agreements
-ÌÚÑ¶ÎÄµµ,winget install --id Tencent.TencentDocs -e --silent --accept-package-agreements --accept-source-agreements
-FoxmailÓÊÏä,winget install --id Tencent.Foxmail -e --silent --accept-package-agreements --accept-source-agreements
-ÌÚÑ¶×ÀÃæÕûÀí,winget install --id Tencent.DeskGo -e --silent --accept-package-agreements --accept-source-agreements
+è…¾è®¯æ–‡æ¡£,winget install --id Tencent.TencentDocs -e --silent --accept-package-agreements --accept-source-agreements
+Foxmailé‚®ç®±,winget install --id Tencent.Foxmail -e --silent --accept-package-agreements --accept-source-agreements
+è…¾è®¯æ¡Œé¢æ•´ç†,winget install --id Tencent.DeskGo -e --silent --accept-package-agreements --accept-source-agreements
 Notion,winget install --id Notion.Notion -e --silent --accept-package-agreements --accept-source-agreements
-XmindË¼Î¬µ¼Í¼,winget install --id Xmind.Xmind -e --silent --accept-package-agreements --accept-source-agreements
-ÓïÈ¸,winget install --id Alibaba.Yuque -e --silent --accept-package-agreements --accept-source-agreements
-µÎ´ğÇåµ¥,winget install --id Appest.Dida -e --silent --accept-package-agreements --accept-source-agreements
-°Ù¶ÈÍøÅÌ,winget install --id Baidu.BaiduNetdisk -e --silent --accept-package-agreements --accept-source-agreements
-# ¿ª·¢¹¤¾ß,
+Xmindæ€ç»´å¯¼å›¾,winget install --id Xmind.Xmind -e --silent --accept-package-agreements --accept-source-agreements
+è¯­é›€,winget install --id Alibaba.Yuque -e --silent --accept-package-agreements --accept-source-agreements
+æ»´ç­”æ¸…å•,winget install --id Appest.Dida -e --silent --accept-package-agreements --accept-source-agreements
+ç™¾åº¦ç½‘ç›˜,winget install --id Baidu.BaiduNetdisk -e --silent --accept-package-agreements --accept-source-agreements
+# å¼€å‘å·¥å…·,
 Visual Studio Code,winget install --id Microsoft.VisualStudioCode -e --silent --accept-package-agreements --accept-source-agreements
 Git,winget install --id Git.Git -e --silent --accept-package-agreements --accept-source-agreements
 Python 3.12,winget install --id Python.Python.3.12 -e --silent --accept-package-agreements --accept-source-agreements
@@ -32,167 +32,167 @@ Docker Desktop,winget install --id Docker.DockerDesktop -e --silent --accept-pac
 Windows Terminal,winget install --id Microsoft.WindowsTerminal -e --silent --accept-package-agreements --accept-source-agreements
 PowerToys,winget install --id Microsoft.PowerToys -e --silent --accept-package-agreements --accept-source-agreements
 Notepad++,winget install --id Notepad++.Notepad++ -e --silent --accept-package-agreements --accept-source-agreements
-DBeaverÊı¾İ¿â¹¤¾ß,winget install --id DBeaver.DBeaver.Community -e --silent --accept-package-agreements --accept-source-agreements
+DBeaveræ•°æ®åº“å·¥å…·,winget install --id DBeaver.DBeaver.Community -e --silent --accept-package-agreements --accept-source-agreements
 Postman,winget install --id Postman.Postman -e --silent --accept-package-agreements --accept-source-agreements
 JetBrains Toolbox,winget install --id JetBrains.Toolbox -e --silent --accept-package-agreements --accept-source-agreements
-IntelliJ IDEAÉçÇø°æ,winget install --id JetBrains.IntelliJIDEA.Community -e --silent --accept-package-agreements --accept-source-agreements
-PyCharmÉçÇø°æ,winget install --id JetBrains.PyCharm.Community -e --silent --accept-package-agreements --accept-source-agreements
+IntelliJ IDEAç¤¾åŒºç‰ˆ,winget install --id JetBrains.IntelliJIDEA.Community -e --silent --accept-package-agreements --accept-source-agreements
+PyCharmç¤¾åŒºç‰ˆ,winget install --id JetBrains.PyCharm.Community -e --silent --accept-package-agreements --accept-source-agreements
 Wireshark,winget install --id WiresharkFoundation.Wireshark -e --silent --accept-package-agreements --accept-source-agreements
-# AI ¹¤¾ß,
+# AI å·¥å…·,
 opencode,winget install --id SST.opencode -e --silent --accept-package-agreements --accept-source-agreements
 WorkBuddy,winget install --id Tencent.WorkBuddy -e --silent --accept-package-agreements --accept-source-agreements
 Kimi,winget install --id MoonshotAI.Kimi -e --silent --accept-package-agreements --accept-source-agreements
-¶¹°ü,winget install --id ByteDance.Doubao -e --silent --accept-package-agreements --accept-source-agreements
-¼ôÓ³×¨Òµ°æ,winget install --id ByteDance.JianyingPro -e --silent --accept-package-agreements --accept-source-agreements
-# Ó°ÒôÓéÀÖ,
-ÍøÒ×ÔÆÒôÀÖ,winget install --id NetEase.CloudMusic -e --silent --accept-package-agreements --accept-source-agreements
-QQÒôÀÖ,winget install --id Tencent.QQMusic -e --silent --accept-package-agreements --accept-source-agreements
-ÌÚÑ¶ÊÓÆµ,winget install --id Tencent.TencentVideo -e --silent --accept-package-agreements --accept-source-agreements
-ßÙÁ¨ßÙÁ¨,winget install --id Bilibili.Bilibili -e --silent --accept-package-agreements --accept-source-agreements
+è±†åŒ…,winget install --id ByteDance.Doubao -e --silent --accept-package-agreements --accept-source-agreements
+å‰ªæ˜ ä¸“ä¸šç‰ˆ,winget install --id ByteDance.JianyingPro -e --silent --accept-package-agreements --accept-source-agreements
+# å½±éŸ³å¨±ä¹,
+ç½‘æ˜“äº‘éŸ³ä¹,winget install --id NetEase.CloudMusic -e --silent --accept-package-agreements --accept-source-agreements
+QQéŸ³ä¹,winget install --id Tencent.QQMusic -e --silent --accept-package-agreements --accept-source-agreements
+è…¾è®¯è§†é¢‘,winget install --id Tencent.TencentVideo -e --silent --accept-package-agreements --accept-source-agreements
+å“”å“©å“”å“©,winget install --id Bilibili.Bilibili -e --silent --accept-package-agreements --accept-source-agreements
 PotPlayer,winget install --id Daum.PotPlayer -e --silent --accept-package-agreements --accept-source-agreements
-VLC²¥·ÅÆ÷,winget install --id VideoLAN.VLC -e --silent --accept-package-agreements --accept-source-agreements
+VLCæ’­æ”¾å™¨,winget install --id VideoLAN.VLC -e --silent --accept-package-agreements --accept-source-agreements
 Spotify,winget install --id Spotify.Spotify -e --silent --accept-package-agreements --accept-source-agreements
 Steam,winget install --id Valve.Steam -e --silent --accept-package-agreements --accept-source-agreements
 Epic Games,winget install --id EpicGames.EpicGamesLauncher -e --silent --accept-package-agreements --accept-source-agreements
 Discord,winget install --id Discord.Discord -e --silent --accept-package-agreements --accept-source-agreements
 Telegram,winget install --id Telegram.TelegramDesktop -e --silent --accept-package-agreements --accept-source-agreements
 Slack,winget install --id SlackTechnologies.Slack -e --silent --accept-package-agreements --accept-source-agreements
-# ÊµÓÃ¹¤¾ß,
+# å®ç”¨å·¥å…·,
 7-Zip,winget install --id 7zip.7zip -e --silent --accept-package-agreements --accept-source-agreements
 WinRAR,winget install --id RARLab.WinRAR -e --silent --accept-package-agreements --accept-source-agreements
 Bandizip,winget install --id Bandisoft.Bandizip -e --silent --accept-package-agreements --accept-source-agreements
-EverythingÎÄ¼şËÑË÷,winget install --id voidtools.Everything -e --silent --accept-package-agreements --accept-source-agreements
-Snipaste½ØÍ¼,winget install --id liule.Snipaste -e --silent --accept-package-agreements --accept-source-agreements
+Everythingæ–‡ä»¶æœç´¢,winget install --id voidtools.Everything -e --silent --accept-package-agreements --accept-source-agreements
+Snipasteæˆªå›¾,winget install --id liule.Snipaste -e --silent --accept-package-agreements --accept-source-agreements
 Typora,winget install --id appmakes.Typora -e --silent --accept-package-agreements --accept-source-agreements
 Obsidian,winget install --id Obsidian.Obsidian -e --silent --accept-package-agreements --accept-source-agreements
 uTools,winget install --id Yuanli.uTools -e --silent --accept-package-agreements --accept-source-agreements
 TeamViewer,winget install --id TeamViewer.TeamViewer -e --silent --accept-package-agreements --accept-source-agreements
 LibreOffice,winget install --id TheDocumentFoundation.LibreOffice -e --silent --accept-package-agreements --accept-source-agreements
-OBSÂ¼ÆÁ,winget install --id OBSProject.OBSStudio -e --silent --accept-package-agreements --accept-source-agreements
-²âÊÔÃüÁî,cmd /c echo MCP-CSV-EXEC-OK
+OBSå½•å±,winget install --id OBSProject.OBSStudio -e --silent --accept-package-agreements --accept-source-agreements
+æµ‹è¯•å‘½ä»¤,cmd /c echo MCP-CSV-EXEC-OK
 Google Chrome,winget install --id Google.Chrome -e --silent --accept-package-agreements --accept-source-agreements
 Mozilla Firefox,winget install --id Mozilla.Firefox -e --silent --accept-package-agreements --accept-source-agreements
 Microsoft Edge,winget install --id Microsoft.Edge -e --silent --accept-package-agreements --accept-source-agreements
-Opera ä¯ÀÀÆ÷,winget install --id Opera.Opera -e --silent --accept-package-agreements --accept-source-agreements
-Brave ä¯ÀÀÆ÷,winget install --id Brave.Brave -e --silent --accept-package-agreements --accept-source-agreements
-Arc ä¯ÀÀÆ÷,winget install --id Microsoft.Arc -e --silent --accept-package-agreements --accept-source-agreements
-LibreOffice °ì¹«Ì×¼ş,winget install --id TheDocumentFoundation.LibreOffice -e --silent --accept-package-agreements --accept-source-agreements
-ONLYOFFICE ±à¼­Æ÷,winget install --id ONLYOFFICE.DesktopEditors -e --silent --accept-package-agreements --accept-source-agreements
+Opera æµè§ˆå™¨,winget install --id Opera.Opera -e --silent --accept-package-agreements --accept-source-agreements
+Brave æµè§ˆå™¨,winget install --id Brave.Brave -e --silent --accept-package-agreements --accept-source-agreements
+Arc æµè§ˆå™¨,winget install --id Microsoft.Arc -e --silent --accept-package-agreements --accept-source-agreements
+LibreOffice åŠå…¬å¥—ä»¶,winget install --id TheDocumentFoundation.LibreOffice -e --silent --accept-package-agreements --accept-source-agreements
+ONLYOFFICE ç¼–è¾‘å™¨,winget install --id ONLYOFFICE.DesktopEditors -e --silent --accept-package-agreements --accept-source-agreements
 WPS Office,winget install --id Kingsoft.WPSOffice -e --silent --accept-package-agreements --accept-source-agreements
 Adobe Acrobat Reader,winget install --id Adobe.Acrobat.Reader.64-bit -e --silent --accept-package-agreements --accept-source-agreements
-½ğÉ½PDF¶ÀÁ¢°æ,winget install --id Kingsoft.KingsoftPDF -e --silent --accept-package-agreements --accept-source-agreements
-SumatraPDF ÇáÁ¿ÔÄ¶ÁÆ÷,winget install --id SumatraPDF.SumatraPDF -e --silent --accept-package-agreements --accept-source-agreements
-Okular ÎÄµµÔÄ¶ÁÆ÷,winget install --id KDE.Okular -e --silent --accept-package-agreements --accept-source-agreements
-Notion ±Ê¼Ç,winget install --id Notion.Notion -e --silent --accept-package-agreements --accept-source-agreements
-Obsidian ±Ê¼Ç,winget install --id Obsidian.Obsidian -e --silent --accept-package-agreements --accept-source-agreements
-NoteGen ±Ê¼Ç,winget install --id codexu.NoteGen -e --silent --accept-package-agreements --accept-source-agreements
-VS Code ±à¼­Æ÷,winget install --id Microsoft.VisualStudioCode -e --silent --accept-package-agreements --accept-source-agreements
-Visual Studio 2022 ÉçÇø°æ,winget install --id Microsoft.VisualStudio.2022.Community -e --silent --accept-package-agreements --accept-source-agreements
-IntelliJ IDEA ÉçÇø°æ,winget install --id JetBrains.IntelliJIDEA.Community -e --silent --accept-package-agreements --accept-source-agreements
-PyCharm ÉçÇø°æ,winget install --id JetBrains.PyCharm.Community -e --silent --accept-package-agreements --accept-source-agreements
+é‡‘å±±PDFç‹¬ç«‹ç‰ˆ,winget install --id Kingsoft.KingsoftPDF -e --silent --accept-package-agreements --accept-source-agreements
+SumatraPDF è½»é‡é˜…è¯»å™¨,winget install --id SumatraPDF.SumatraPDF -e --silent --accept-package-agreements --accept-source-agreements
+Okular æ–‡æ¡£é˜…è¯»å™¨,winget install --id KDE.Okular -e --silent --accept-package-agreements --accept-source-agreements
+Notion ç¬”è®°,winget install --id Notion.Notion -e --silent --accept-package-agreements --accept-source-agreements
+Obsidian ç¬”è®°,winget install --id Obsidian.Obsidian -e --silent --accept-package-agreements --accept-source-agreements
+NoteGen ç¬”è®°,winget install --id codexu.NoteGen -e --silent --accept-package-agreements --accept-source-agreements
+VS Code ç¼–è¾‘å™¨,winget install --id Microsoft.VisualStudioCode -e --silent --accept-package-agreements --accept-source-agreements
+Visual Studio 2022 ç¤¾åŒºç‰ˆ,winget install --id Microsoft.VisualStudio.2022.Community -e --silent --accept-package-agreements --accept-source-agreements
+IntelliJ IDEA ç¤¾åŒºç‰ˆ,winget install --id JetBrains.IntelliJIDEA.Community -e --silent --accept-package-agreements --accept-source-agreements
+PyCharm ç¤¾åŒºç‰ˆ,winget install --id JetBrains.PyCharm.Community -e --silent --accept-package-agreements --accept-source-agreements
 WebStorm,winget install --id JetBrains.WebStorm -e --silent --accept-package-agreements --accept-source-agreements
-DataGrip Êı¾İ¿â¹¤¾ß,winget install --id JetBrains.DataGrip -e --silent --accept-package-agreements --accept-source-agreements
-Neovim ±à¼­Æ÷,winget install --id Neovim.Neovim -e --silent --accept-package-agreements --accept-source-agreements
-Vim ±à¼­Æ÷,winget install --id Vim.Vim -e --silent --accept-package-agreements --accept-source-agreements
+DataGrip æ•°æ®åº“å·¥å…·,winget install --id JetBrains.DataGrip -e --silent --accept-package-agreements --accept-source-agreements
+Neovim ç¼–è¾‘å™¨,winget install --id Neovim.Neovim -e --silent --accept-package-agreements --accept-source-agreements
+Vim ç¼–è¾‘å™¨,winget install --id Vim.Vim -e --silent --accept-package-agreements --accept-source-agreements
 Sublime Text,winget install --id SublimeHQ.SublimeText -e --silent --accept-package-agreements --accept-source-agreements
 Notepad++,winget install --id Notepad++.Notepad++ -e --silent --accept-package-agreements --accept-source-agreements
-Postman API ¹¤¾ß,winget install --id Postman.Postman -e --silent --accept-package-agreements --accept-source-agreements
-Insomnia API ¹¤¾ß,winget install --id Insomnia.Insomnia -e --silent --accept-package-agreements --accept-source-agreements
+Postman API å·¥å…·,winget install --id Postman.Postman -e --silent --accept-package-agreements --accept-source-agreements
+Insomnia API å·¥å…·,winget install --id Insomnia.Insomnia -e --silent --accept-package-agreements --accept-source-agreements
 Docker Desktop,winget install --id Docker.DockerDesktop -e --silent --accept-package-agreements --accept-source-agreements
-Git °æ±¾¿ØÖÆ,winget install --id Git.Git -e --silent --accept-package-agreements --accept-source-agreements
+Git ç‰ˆæœ¬æ§åˆ¶,winget install --id Git.Git -e --silent --accept-package-agreements --accept-source-agreements
 GitHub Desktop,winget install --id GitHub.GitHubDesktop -e --silent --accept-package-agreements --accept-source-agreements
 TortoiseGit,winget install --id TortoiseGit.TortoiseGit -e --silent --accept-package-agreements --accept-source-agreements
 Python 3.12,winget install --id Python.Python.3.12 -e --silent --accept-package-agreements --accept-source-agreements
 Node.js LTS,winget install --id OpenJS.NodeJS.LTS -e --silent --accept-package-agreements --accept-source-agreements
 Oracle JDK 21,winget install --id Oracle.JDK.21 -e --silent --accept-package-agreements --accept-source-agreements
 Temurin JDK 21,winget install --id EclipseAdoptium.Temurin.21.JDK -e --silent --accept-package-agreements --accept-source-agreements
-Go ÓïÑÔ,winget install --id GoLang.Go -e --silent --accept-package-agreements --accept-source-agreements
-Rust ¹¤¾ßÁ´,winget install --id Rustlang.Rustup -e --silent --accept-package-agreements --accept-source-agreements
+Go è¯­è¨€,winget install --id GoLang.Go -e --silent --accept-package-agreements --accept-source-agreements
+Rust å·¥å…·é“¾,winget install --id Rustlang.Rustup -e --silent --accept-package-agreements --accept-source-agreements
 Ruby 3.3,winget install --id RubyInstallerTeam.Ruby.3.3 -e --silent --accept-package-agreements --accept-source-agreements
-SQL Server 2022 ¿ª·¢°æ,winget install --id Microsoft.SQLServer.2022.Developer -e --silent --accept-package-agreements --accept-source-agreements
+SQL Server 2022 å¼€å‘ç‰ˆ,winget install --id Microsoft.SQLServer.2022.Developer -e --silent --accept-package-agreements --accept-source-agreements
 DB Browser for SQLite,winget install --id SQLiteBrowser.SQLiteBrowser -e --silent --accept-package-agreements --accept-source-agreements
-MongoDB ·şÎñÆ÷,winget install --id MongoDB.Server -e --silent --accept-package-agreements --accept-source-agreements
+MongoDB æœåŠ¡å™¨,winget install --id MongoDB.Server -e --silent --accept-package-agreements --accept-source-agreements
 Redis,winget install --id Redis.Redis -e --silent --accept-package-agreements --accept-source-agreements
-Î¢ĞÅ,winget install --id Tencent.WeChat -e --silent --accept-package-agreements --accept-source-agreements
+å¾®ä¿¡,winget install --id Tencent.WeChat -e --silent --accept-package-agreements --accept-source-agreements
 QQ,winget install --id Tencent.QQ -e --silent --accept-package-agreements --accept-source-agreements
-ÆóÒµÎ¢ĞÅ,winget install --id Tencent.WeCom -e --silent --accept-package-agreements --accept-source-agreements
-¶¤¶¤,winget install --id Alibaba.DingTalk -e --silent --accept-package-agreements --accept-source-agreements
-·ÉÊé,winget install --id ByteDance.Feishu -e --silent --accept-package-agreements --accept-source-agreements
-Zoom »áÒé,winget install --id Zoom.Zoom -e --silent --accept-package-agreements --accept-source-agreements
-Steam ÓÎÏ·Æ½Ì¨,winget install --id Valve.Steam -e --silent --accept-package-agreements --accept-source-agreements
+ä¼ä¸šå¾®ä¿¡,winget install --id Tencent.WeCom -e --silent --accept-package-agreements --accept-source-agreements
+é’‰é’‰,winget install --id Alibaba.DingTalk -e --silent --accept-package-agreements --accept-source-agreements
+é£ä¹¦,winget install --id ByteDance.Feishu -e --silent --accept-package-agreements --accept-source-agreements
+Zoom ä¼šè®®,winget install --id Zoom.Zoom -e --silent --accept-package-agreements --accept-source-agreements
+Steam æ¸¸æˆå¹³å°,winget install --id Valve.Steam -e --silent --accept-package-agreements --accept-source-agreements
 Discord,winget install --id Discord.Discord -e --silent --accept-package-agreements --accept-source-agreements
 Slack,winget install --id SlackTechnologies.Slack -e --silent --accept-package-agreements --accept-source-agreements
 WhatsApp,winget install --id WhatsApp.WhatsApp -e --silent --accept-package-agreements --accept-source-agreements
-Telegram ×ÀÃæ°æ,winget install --id Telegram.TelegramDesktop -e --silent --accept-package-agreements --accept-source-agreements
-VLC ²¥·ÅÆ÷,winget install --id VideoLAN.VLC -e --silent --accept-package-agreements --accept-source-agreements
+Telegram æ¡Œé¢ç‰ˆ,winget install --id Telegram.TelegramDesktop -e --silent --accept-package-agreements --accept-source-agreements
+VLC æ’­æ”¾å™¨,winget install --id VideoLAN.VLC -e --silent --accept-package-agreements --accept-source-agreements
 PotPlayer,winget install --id Daum.PotPlayer -e --silent --accept-package-agreements --accept-source-agreements
-Screenbox ²¥·ÅÆ÷,winget install --id Starpine.Screenbox -e --silent --accept-package-agreements --accept-source-agreements
-MPC-BE ²¥·ÅÆ÷,winget install --id MPC-BE.MPC-BE -e --silent --accept-package-agreements --accept-source-agreements
-OBS Studio Â¼ÆÁÖ±²¥,winget install --id OBSProject.OBSStudio -e --silent --accept-package-agreements --accept-source-agreements
-ShareX ½ØÍ¼Â¼ÆÁ,winget install --id ShareX.ShareX -e --silent --accept-package-agreements --accept-source-agreements
-FFmpeg ÒôÊÓÆµ¹¤¾ß,winget install --id FFmpeg.FFmpeg -e --silent --accept-package-agreements --accept-source-agreements
-FFmpeg£¨ÍêÕû¹¹½¨°æ£©,winget install --id Gyan.FFmpeg -e --silent --accept-package-agreements --accept-source-agreements
-Audacity ÒôÆµ±à¼­,winget install --id Audacity.Audacity -e --silent --accept-package-agreements --accept-source-agreements
-Spotify ÒôÀÖ,winget install --id Spotify.Spotify -e --silent --accept-package-agreements --accept-source-agreements
-ÍøÒ×ÔÆÒôÀÖ,winget install --id NetEase.CloudMusic -e --silent --accept-package-agreements --accept-source-agreements
-QQÒôÀÖ,winget install --id Tencent.QQMusic -e --silent --accept-package-agreements --accept-source-agreements
-7-Zip Ñ¹Ëõ½âÑ¹,winget install --id 7zip.7zip -e --silent --accept-package-agreements --accept-source-agreements
+Screenbox æ’­æ”¾å™¨,winget install --id Starpine.Screenbox -e --silent --accept-package-agreements --accept-source-agreements
+MPC-BE æ’­æ”¾å™¨,winget install --id MPC-BE.MPC-BE -e --silent --accept-package-agreements --accept-source-agreements
+OBS Studio å½•å±ç›´æ’­,winget install --id OBSProject.OBSStudio -e --silent --accept-package-agreements --accept-source-agreements
+ShareX æˆªå›¾å½•å±,winget install --id ShareX.ShareX -e --silent --accept-package-agreements --accept-source-agreements
+FFmpeg éŸ³è§†é¢‘å·¥å…·,winget install --id FFmpeg.FFmpeg -e --silent --accept-package-agreements --accept-source-agreements
+FFmpegï¼ˆå®Œæ•´æ„å»ºç‰ˆï¼‰,winget install --id Gyan.FFmpeg -e --silent --accept-package-agreements --accept-source-agreements
+Audacity éŸ³é¢‘ç¼–è¾‘,winget install --id Audacity.Audacity -e --silent --accept-package-agreements --accept-source-agreements
+Spotify éŸ³ä¹,winget install --id Spotify.Spotify -e --silent --accept-package-agreements --accept-source-agreements
+ç½‘æ˜“äº‘éŸ³ä¹,winget install --id NetEase.CloudMusic -e --silent --accept-package-agreements --accept-source-agreements
+QQéŸ³ä¹,winget install --id Tencent.QQMusic -e --silent --accept-package-agreements --accept-source-agreements
+7-Zip å‹ç¼©è§£å‹,winget install --id 7zip.7zip -e --silent --accept-package-agreements --accept-source-agreements
 WinRAR,winget install --id RARLab.WinRAR -e --silent --accept-package-agreements --accept-source-agreements
-PowerToys ÏµÍ³ÔöÇ¿,winget install --id Microsoft.PowerToys -e --silent --accept-package-agreements --accept-source-agreements
-Sysinternals ¹¤¾ß¼¯,winget install --id Microsoft.SysinternalsSuite -e --silent --accept-package-agreements --accept-source-agreements
-WizTree ´ÅÅÌ·ÖÎö,winget install --id AntibodySoftware.WizTree -e --silent --accept-package-agreements --accept-source-agreements
-WinDirStat ´ÅÅÌ·ÖÎö,winget install --id WinDirStat.WinDirStat -e --silent --accept-package-agreements --accept-source-agreements
-Mem Reduct ÄÚ´æÇåÀí,winget install --id Henry++.MemReduct -e --silent --accept-package-agreements --accept-source-agreements
-Windows ÄÚ´æÇåÀíÆ÷,winget install --id IgorMundstein.WinMemoryCleaner -e --silent --accept-package-agreements --accept-source-agreements
-Geek Ğ¶ÔØ¹¤¾ß,winget install --id GeekUninstaller.GeekUninstaller -e --silent --accept-package-agreements --accept-source-agreements
-Revo Ğ¶ÔØ¹¤¾ß,winget install --id RevoUninstaller.RevoUninstaller -e --silent --accept-package-agreements --accept-source-agreements
-CPU-Z Ó²¼ş¼ì²â,winget install --id CPUID.CPU-Z -e --silent --accept-package-agreements --accept-source-agreements
-HWMonitor Ó²¼ş¼à¿Ø,winget install --id CPUID.HWMonitor -e --silent --accept-package-agreements --accept-source-agreements
-GPU-Z ÏÔ¿¨¼ì²â,winget install --id TechPowerUp.GPU-Z -e --silent --accept-package-agreements --accept-source-agreements
-Etcher UÅÌÆô¶¯ÅÌ,winget install --id Balena.Etcher -e --silent --accept-package-agreements --accept-source-agreements
-Rufus UÅÌÆô¶¯ÅÌ,winget install --id Rufus.Rufus -e --silent --accept-package-agreements --accept-source-agreements
+PowerToys ç³»ç»Ÿå¢å¼º,winget install --id Microsoft.PowerToys -e --silent --accept-package-agreements --accept-source-agreements
+Sysinternals å·¥å…·é›†,winget install --id Microsoft.SysinternalsSuite -e --silent --accept-package-agreements --accept-source-agreements
+WizTree ç£ç›˜åˆ†æ,winget install --id AntibodySoftware.WizTree -e --silent --accept-package-agreements --accept-source-agreements
+WinDirStat ç£ç›˜åˆ†æ,winget install --id WinDirStat.WinDirStat -e --silent --accept-package-agreements --accept-source-agreements
+Mem Reduct å†…å­˜æ¸…ç†,winget install --id Henry++.MemReduct -e --silent --accept-package-agreements --accept-source-agreements
+Windows å†…å­˜æ¸…ç†å™¨,winget install --id IgorMundstein.WinMemoryCleaner -e --silent --accept-package-agreements --accept-source-agreements
+Geek å¸è½½å·¥å…·,winget install --id GeekUninstaller.GeekUninstaller -e --silent --accept-package-agreements --accept-source-agreements
+Revo å¸è½½å·¥å…·,winget install --id RevoUninstaller.RevoUninstaller -e --silent --accept-package-agreements --accept-source-agreements
+CPU-Z ç¡¬ä»¶æ£€æµ‹,winget install --id CPUID.CPU-Z -e --silent --accept-package-agreements --accept-source-agreements
+HWMonitor ç¡¬ä»¶ç›‘æ§,winget install --id CPUID.HWMonitor -e --silent --accept-package-agreements --accept-source-agreements
+GPU-Z æ˜¾å¡æ£€æµ‹,winget install --id TechPowerUp.GPU-Z -e --silent --accept-package-agreements --accept-source-agreements
+Etcher Uç›˜å¯åŠ¨ç›˜,winget install --id Balena.Etcher -e --silent --accept-package-agreements --accept-source-agreements
+Rufus Uç›˜å¯åŠ¨ç›˜,winget install --id Rufus.Rufus -e --silent --accept-package-agreements --accept-source-agreements
 Windows Terminal,winget install --id Microsoft.WindowsTerminal -e --silent --accept-package-agreements --accept-source-agreements
-WezTerm ÖÕ¶Ë,winget install --id wez.wezterm -e --silent --accept-package-agreements --accept-source-agreements
-Starship ÃüÁîĞĞÌáÊ¾·û,winget install --id Starship.Starship -e --silent --accept-package-agreements --accept-source-agreements
-Bitwarden ÃÜÂë¹ÜÀíÆ÷,winget install --id Bitwarden.Bitwarden -e --silent --accept-package-agreements --accept-source-agreements
+WezTerm ç»ˆç«¯,winget install --id wez.wezterm -e --silent --accept-package-agreements --accept-source-agreements
+Starship å‘½ä»¤è¡Œæç¤ºç¬¦,winget install --id Starship.Starship -e --silent --accept-package-agreements --accept-source-agreements
+Bitwarden å¯†ç ç®¡ç†å™¨,winget install --id Bitwarden.Bitwarden -e --silent --accept-package-agreements --accept-source-agreements
 1Password,winget install --id AgileBits.1Password -e --silent --accept-package-agreements --accept-source-agreements
-KeePassXC ÃÜÂë¹ÜÀí,winget install --id KeePassXCTeam.KeePassXC -e --silent --accept-package-agreements --accept-source-agreements
-Malwarebytes ·´¶ñÒâÈí¼ş,winget install --id Malwarebytes.Malwarebytes -e --silent --accept-package-agreements --accept-source-agreements
+KeePassXC å¯†ç ç®¡ç†,winget install --id KeePassXCTeam.KeePassXC -e --silent --accept-package-agreements --accept-source-agreements
+Malwarebytes åæ¶æ„è½¯ä»¶,winget install --id Malwarebytes.Malwarebytes -e --silent --accept-package-agreements --accept-source-agreements
 OpenVPN Connect,winget install --id OpenVPNTechnologies.OpenVPNConnect -e --silent --accept-package-agreements --accept-source-agreements
 WireGuard VPN,winget install --id WireGuard.WireGuard -e --silent --accept-package-agreements --accept-source-agreements
-GIMP Í¼Ïñ±à¼­,winget install --id GIMP.GIMP -e --silent --accept-package-agreements --accept-source-agreements
-Krita »æ»­,winget install --id KDE.Krita -e --silent --accept-package-agreements --accept-source-agreements
-Inkscape Ê¸Á¿»æÍ¼,winget install --id Inkscape.Inkscape -e --silent --accept-package-agreements --accept-source-agreements
-Blender 3D ½¨Ä£,winget install --id BlenderFoundation.Blender -e --silent --accept-package-agreements --accept-source-agreements
-Figma Éè¼Æ¹¤¾ß,winget install --id Figma.Figma -e --silent --accept-package-agreements --accept-source-agreements
+GIMP å›¾åƒç¼–è¾‘,winget install --id GIMP.GIMP -e --silent --accept-package-agreements --accept-source-agreements
+Krita ç»˜ç”»,winget install --id KDE.Krita -e --silent --accept-package-agreements --accept-source-agreements
+Inkscape çŸ¢é‡ç»˜å›¾,winget install --id Inkscape.Inkscape -e --silent --accept-package-agreements --accept-source-agreements
+Blender 3D å»ºæ¨¡,winget install --id BlenderFoundation.Blender -e --silent --accept-package-agreements --accept-source-agreements
+Figma è®¾è®¡å·¥å…·,winget install --id Figma.Figma -e --silent --accept-package-agreements --accept-source-agreements
 Adobe Acrobat Pro,winget install --id Adobe.AdobeAcrobat -e --silent --accept-package-agreements --accept-source-agreements
-draw.io Í¼±í¹¤¾ß,winget install --id JGraph.Draw -e --silent --accept-package-agreements --accept-source-agreements
-Excalidraw ÊÖ»æÍ¼±í,winget install --id Excalidraw.Excalidraw -e --silent --accept-package-agreements --accept-source-agreements
+draw.io å›¾è¡¨å·¥å…·,winget install --id JGraph.Draw -e --silent --accept-package-agreements --accept-source-agreements
+Excalidraw æ‰‹ç»˜å›¾è¡¨,winget install --id Excalidraw.Excalidraw -e --silent --accept-package-agreements --accept-source-agreements
 OneDrive,winget install --id Microsoft.OneDrive -e --silent --accept-package-agreements --accept-source-agreements
 Dropbox,winget install --id Dropbox.Dropbox -e --silent --accept-package-agreements --accept-source-agreements
-Nextcloud ¿Í»§¶Ë,winget install --id Nextcloud.NextcloudDesktop -e --silent --accept-package-agreements --accept-source-agreements
-°Ù¶ÈÍøÅÌ,winget install --id Baidu.BaiduNetdisk -e --silent --accept-package-agreements --accept-source-agreements
-°¢ÀïÔÆÅÌ,winget install --id Aliyun.Workbench -e --silent --accept-package-agreements --accept-source-agreements
-UUÔ¶³Ì,winget install --id NetEase.UURemote -e --silent --accept-package-agreements --accept-source-agreements
+Nextcloud å®¢æˆ·ç«¯,winget install --id Nextcloud.NextcloudDesktop -e --silent --accept-package-agreements --accept-source-agreements
+ç™¾åº¦ç½‘ç›˜,winget install --id Baidu.BaiduNetdisk -e --silent --accept-package-agreements --accept-source-agreements
+é˜¿é‡Œäº‘ç›˜,winget install --id Aliyun.Workbench -e --silent --accept-package-agreements --accept-source-agreements
+UUè¿œç¨‹,winget install --id NetEase.UURemote -e --silent --accept-package-agreements --accept-source-agreements
 TeamViewer,winget install --id TeamViewer.TeamViewer -e --silent --accept-package-agreements --accept-source-agreements
 AnyDesk,winget install --id AnyDeskSoftwareGmbH.AnyDesk -e --silent --accept-package-agreements --accept-source-agreements
 Power BI Desktop,winget install --id Microsoft.PowerBI -e --silent --accept-package-agreements --accept-source-agreements
-qBittorrent ÏÂÔØ,winget install --id qBittorrent.qBittorrent -e --silent --accept-package-agreements --accept-source-agreements
-aria2 ÃüÁîĞĞÏÂÔØ,winget install --id aria2.aria2 -e --silent --accept-package-agreements --accept-source-agreements
-yt-dlp ÊÓÆµÏÂÔØ,winget install --id yt-dlp.yt-dlp -e --silent --accept-package-agreements --accept-source-agreements
-ripgrep ¿ìËÙËÑË÷,winget install --id BurntSushi.ripgrep.MSVC -e --silent --accept-package-agreements --accept-source-agreements
-fd ¿ìËÙÎÄ¼ş²éÕÒ,winget install --id sharkdp.fd -e --silent --accept-package-agreements --accept-source-agreements
-jq JSON ´¦Àí,winget install --id jqlang.jq -e --silent --accept-package-agreements --accept-source-agreements
-yq YAML ´¦Àí,winget install --id MikeFarah.yq -e --silent --accept-package-agreements --accept-source-agreements
+qBittorrent ä¸‹è½½,winget install --id qBittorrent.qBittorrent -e --silent --accept-package-agreements --accept-source-agreements
+aria2 å‘½ä»¤è¡Œä¸‹è½½,winget install --id aria2.aria2 -e --silent --accept-package-agreements --accept-source-agreements
+yt-dlp è§†é¢‘ä¸‹è½½,winget install --id yt-dlp.yt-dlp -e --silent --accept-package-agreements --accept-source-agreements
+ripgrep å¿«é€Ÿæœç´¢,winget install --id BurntSushi.ripgrep.MSVC -e --silent --accept-package-agreements --accept-source-agreements
+fd å¿«é€Ÿæ–‡ä»¶æŸ¥æ‰¾,winget install --id sharkdp.fd -e --silent --accept-package-agreements --accept-source-agreements
+jq JSON å¤„ç†,winget install --id jqlang.jq -e --silent --accept-package-agreements --accept-source-agreements
+yq YAML å¤„ç†,winget install --id MikeFarah.yq -e --silent --accept-package-agreements --accept-source-agreements
 lazygit Git TUI,winget install --id JesseDuffield.lazygit -e --silent --accept-package-agreements --accept-source-agreements
-WinSCP SFTP ¿Í»§¶Ë,winget install --id WinSCP.WinSCP -e --silent --accept-package-agreements --accept-source-agreements
-PuTTY SSH ¿Í»§¶Ë,winget install --id PuTTY.PuTTY -e --silent --accept-package-agreements --accept-source-agreements
-VC++ 2015-2022 x64 ÔËĞĞ¿â,winget install --id Microsoft.VCRedist.2015+.x64 -e --silent --accept-package-agreements --accept-source-agreements
-VC++ 2015-2022 x86 ÔËĞĞ¿â,winget install --id Microsoft.VCRedist.2015+.x86 -e --silent --accept-package-agreements --accept-source-agreements
+WinSCP SFTP å®¢æˆ·ç«¯,winget install --id WinSCP.WinSCP -e --silent --accept-package-agreements --accept-source-agreements
+PuTTY SSH å®¢æˆ·ç«¯,winget install --id PuTTY.PuTTY -e --silent --accept-package-agreements --accept-source-agreements
+VC++ 2015-2022 x64 è¿è¡Œåº“,winget install --id Microsoft.VCRedist.2015+.x64 -e --silent --accept-package-agreements --accept-source-agreements
+VC++ 2015-2022 x86 è¿è¡Œåº“,winget install --id Microsoft.VCRedist.2015+.x86 -e --silent --accept-package-agreements --accept-source-agreements
 .NET Desktop Runtime 8,winget install --id Microsoft.DotNet.DesktopRuntime.8 -e --silent --accept-package-agreements --accept-source-agreements
 Java Runtime Environment,winget install --id Oracle.JavaRuntimeEnvironment -e --silent --accept-package-agreements --accept-source-agreements
-ÌÚÑ¶imaÖªÊ¶¿â,winget install --id Tencent.ima-copilot -e --silent --accept-package-agreements --accept-source-agreements
-ChatGPT ×ÀÃæ¶Ë,winget install --id OpenAI.ChatGPT -e --silent --accept-package-agreements --accept-source-agreements
-LM Studio ±¾µØ´óÄ£ĞÍ,winget install --id LMStudio.LMStudio -e --silent --accept-package-agreements --accept-source-agreements
-AYA¿ÉÊÓ»¯ADB¹¤¾ß,winget install --id LiriLiri.AYA -e --silent --accept-package-agreements --accept-source-agreements
+è…¾è®¯imaçŸ¥è¯†åº“,winget install --id Tencent.ima-copilot -e --silent --accept-package-agreements --accept-source-agreements
+ChatGPT æ¡Œé¢ç«¯,winget install --id OpenAI.ChatGPT -e --silent --accept-package-agreements --accept-source-agreements
+LM Studio æœ¬åœ°å¤§æ¨¡å‹,winget install --id LMStudio.LMStudio -e --silent --accept-package-agreements --accept-source-agreements
+AYAå¯è§†åŒ–ADBå·¥å…·,winget install --id LiriLiri.AYA -e --silent --accept-package-agreements --accept-source-agreements
 Android Platform Tools (ADB),winget install --id Google.PlatformTools -e --silent --accept-package-agreements --accept-source-agreements
