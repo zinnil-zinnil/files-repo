@@ -1,0 +1,72 @@
+﻿# 浏览器
+Chrome浏览器,winget install --id Google.Chrome -e --silent --accept-package-agreements --accept-source-agreements
+Edge浏览器,winget install --id Microsoft.Edge -e --silent --accept-package-agreements --accept-source-agreements
+Firefox浏览器,winget install --id Mozilla.Firefox -e --silent --accept-package-agreements --accept-source-agreements
+夸克浏览器,winget install --id Alibaba.Quark -e --silent --accept-package-agreements --accept-source-agreements
+# 通讯办公
+微信,winget install --id Tencent.WeChat -e --silent --accept-package-agreements --accept-source-agreements
+企业微信,winget install --id Tencent.WeCom -e --silent --accept-package-agreements --accept-source-agreements
+QQ,winget install --id Tencent.QQ -e --silent --accept-package-agreements --accept-source-agreements
+TIM,winget install --id Tencent.TIM -e --silent --accept-package-agreements --accept-source-agreements
+钉钉,winget install --id Alibaba.DingTalk.Mainland -e --silent --accept-package-agreements --accept-source-agreements
+飞书,winget install --id ByteDance.Feishu -e --silent --accept-package-agreements --accept-source-agreements
+腾讯会议,winget install --id Tencent.TencentMeeting -e --silent --accept-package-agreements --accept-source-agreements
+Zoom,winget install --id Zoom.Zoom -e --silent --accept-package-agreements --accept-source-agreements
+微信输入法,winget install --id Tencent.WeType -e --silent --accept-package-agreements --accept-source-agreements
+搜狗输入法,winget install --id Sogou.SogouInput -e --silent --accept-package-agreements --accept-source-agreements
+WPS Office,winget install --id Kingsoft.WPSOffice -e --silent --accept-package-agreements --accept-source-agreements
+腾讯文档,winget install --id Tencent.TencentDocs -e --silent --accept-package-agreements --accept-source-agreements
+Foxmail邮箱,winget install --id Tencent.Foxmail -e --silent --accept-package-agreements --accept-source-agreements
+腾讯桌面整理,winget install --id Tencent.DeskGo -e --silent --accept-package-agreements --accept-source-agreements
+Notion,winget install --id Notion.Notion -e --silent --accept-package-agreements --accept-source-agreements
+Xmind思维导图,winget install --id Xmind.Xmind -e --silent --accept-package-agreements --accept-source-agreements
+语雀,winget install --id Alibaba.Yuque -e --silent --accept-package-agreements --accept-source-agreements
+滴答清单,winget install --id Appest.Dida -e --silent --accept-package-agreements --accept-source-agreements
+百度网盘,winget install --id Baidu.BaiduNetdisk -e --silent --accept-package-agreements --accept-source-agreements
+# 开发工具
+Visual Studio Code,winget install --id Microsoft.VisualStudioCode -e --silent --accept-package-agreements --accept-source-agreements
+Git,winget install --id Git.Git -e --silent --accept-package-agreements --accept-source-agreements
+Python 3.12,winget install --id Python.Python.3.12 -e --silent --accept-package-agreements --accept-source-agreements
+Node.js LTS,winget install --id OpenJS.NodeJS.LTS -e --silent --accept-package-agreements --accept-source-agreements
+Docker Desktop,winget install --id Docker.DockerDesktop -e --silent --accept-package-agreements --accept-source-agreements
+Windows Terminal,winget install --id Microsoft.WindowsTerminal -e --silent --accept-package-agreements --accept-source-agreements
+PowerToys,winget install --id Microsoft.PowerToys -e --silent --accept-package-agreements --accept-source-agreements
+Notepad++,winget install --id Notepad++.Notepad++ -e --silent --accept-package-agreements --accept-source-agreements
+DBeaver数据库工具,winget install --id DBeaver.DBeaver.Community -e --silent --accept-package-agreements --accept-source-agreements
+Postman,winget install --id Postman.Postman -e --silent --accept-package-agreements --accept-source-agreements
+JetBrains Toolbox,winget install --id JetBrains.Toolbox -e --silent --accept-package-agreements --accept-source-agreements
+IntelliJ IDEA社区版,winget install --id JetBrains.IntelliJIDEA.Community -e --silent --accept-package-agreements --accept-source-agreements
+PyCharm社区版,winget install --id JetBrains.PyCharm.Community -e --silent --accept-package-agreements --accept-source-agreements
+Wireshark,winget install --id WiresharkFoundation.Wireshark -e --silent --accept-package-agreements --accept-source-agreements
+# AI 工具
+opencode,winget install --id SST.opencode -e --silent --accept-package-agreements --accept-source-agreements
+WorkBuddy,winget install --id Tencent.WorkBuddy -e --silent --accept-package-agreements --accept-source-agreements
+Kimi,winget install --id MoonshotAI.Kimi -e --silent --accept-package-agreements --accept-source-agreements
+豆包,winget install --id ByteDance.Doubao -e --silent --accept-package-agreements --accept-source-agreements
+剪映专业版,winget install --id ByteDance.JianyingPro -e --silent --accept-package-agreements --accept-source-agreements
+# 影音娱乐
+网易云音乐,winget install --id NetEase.CloudMusic -e --silent --accept-package-agreements --accept-source-agreements
+QQ音乐,winget install --id Tencent.QQMusic -e --silent --accept-package-agreements --accept-source-agreements
+腾讯视频,winget install --id Tencent.TencentVideo -e --silent --accept-package-agreements --accept-source-agreements
+哔哩哔哩,winget install --id Bilibili.Bilibili -e --silent --accept-package-agreements --accept-source-agreements
+PotPlayer,winget install --id Daum.PotPlayer -e --silent --accept-package-agreements --accept-source-agreements
+VLC播放器,winget install --id VideoLAN.VLC -e --silent --accept-package-agreements --accept-source-agreements
+Spotify,winget install --id Spotify.Spotify -e --silent --accept-package-agreements --accept-source-agreements
+Steam,winget install --id Valve.Steam -e --silent --accept-package-agreements --accept-source-agreements
+Epic Games,winget install --id EpicGames.EpicGamesLauncher -e --silent --accept-package-agreements --accept-source-agreements
+Discord,winget install --id Discord.Discord -e --silent --accept-package-agreements --accept-source-agreements
+Telegram,winget install --id Telegram.TelegramDesktop -e --silent --accept-package-agreements --accept-source-agreements
+Slack,winget install --id SlackTechnologies.Slack -e --silent --accept-package-agreements --accept-source-agreements
+# 实用工具
+7-Zip,winget install --id 7zip.7zip -e --silent --accept-package-agreements --accept-source-agreements
+WinRAR,winget install --id RARLab.WinRAR -e --silent --accept-package-agreements --accept-source-agreements
+Bandizip,winget install --id Bandisoft.Bandizip -e --silent --accept-package-agreements --accept-source-agreements
+Everything文件搜索,winget install --id voidtools.Everything -e --silent --accept-package-agreements --accept-source-agreements
+Snipaste截图,winget install --id liule.Snipaste -e --silent --accept-package-agreements --accept-source-agreements
+Typora,winget install --id appmakes.Typora -e --silent --accept-package-agreements --accept-source-agreements
+Obsidian,winget install --id Obsidian.Obsidian -e --silent --accept-package-agreements --accept-source-agreements
+uTools,winget install --id Yuanli.uTools -e --silent --accept-package-agreements --accept-source-agreements
+TeamViewer,winget install --id TeamViewer.TeamViewer -e --silent --accept-package-agreements --accept-source-agreements
+LibreOffice,winget install --id TheDocumentFoundation.LibreOffice -e --silent --accept-package-agreements --accept-source-agreements
+OBS录屏,winget install --id OBSProject.OBSStudio -e --silent --accept-package-agreements --accept-source-agreements
+测试命令,cmd /c echo MCP-CSV-EXEC-OK
